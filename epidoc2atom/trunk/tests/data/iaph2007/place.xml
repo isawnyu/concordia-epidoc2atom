@@ -1,0 +1,3426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xquery>
+   <word lang="grc">
+      <head reg="Αφροδισιεύς"/>
+      <file id="iAph110058">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Αἰγύπτιος"/>
+      <file id="iAph090005">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Βηρυτός"/>
+      <file id="iAph120214">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Βηρυτός"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="49"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Βιθυνία"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="39"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Βιθυνία"/>
+      <file id="iAph120215">
+         <line n="15"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Βιθυνός"/>
+      <file id="iAph080024">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Βοαί"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="19"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Βοσπόρος"/>
+      <file id="iAph090021">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Βρεττανία"/>
+      <file id="iAph090041">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Βέσσος"/>
+      <file id="iAph090009">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Γαλατία"/>
+      <file id="iAph120214">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Γαλατία"/>
+      <file id="iAph120215">
+         <line n="13"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Γαλατία"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="46"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Γορδιοτειχίτης"/>
+      <file id="iAph020506">
+         <line n="13"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Γορδιοτειχίτης"/>
+      <file id="iAph020506">
+         <line n="18"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Γορδιουτεῖχος"/>
+      <file id="iAph020506">
+         <line n="17"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Γάζα"/>
+      <file id="iAph120214">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Γάζα"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="56"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Γῆ"/>
+      <file id="iAph090015">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Δακός"/>
+      <file id="iAph090020">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Δαμασκός"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="31"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Δαμασκός"/>
+      <file id="iAph120214">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Δαμασκός"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="48"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Δαρδάνος"/>
+      <file id="iAph090024">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Δειβον"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="26"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Δοασαί"/>
+      <file id="iAph150246">
+         <line n="16"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Δάφνη"/>
+      <file id="iAph120711">
+         <divloc n="b"/>
+         <divloc n="i"/>
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Εὐφράτης"/>
+      <file id="iAph120214">
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Εὐφράτης"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="64"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ζεῦγμα"/>
+      <file id="iAph120214">
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ζεῦγμα"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="64"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Θηβαῖος"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="49"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Θρᾷξ"/>
+      <file id="iAph080060">
+         <divloc n="9"/>
+         <divloc n="i"/>
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Θρᾷξ"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="50"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καισαρεία"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="32"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καισαρεία"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="37"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καισαρεία"/>
+      <file id="iAph120214">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καισαρεία"/>
+      <file id="iAph120214">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καισαρεία"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καισαρεία"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="51"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καισαρεία"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="56"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καισαρέυς"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="48"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καλλαικός"/>
+      <file id="iAph090017">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καπετώλειος"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="28"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καπετώλιον"/>
+      <file id="iAph080027">
+         <line n="92"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καππαδοκός"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="36"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καρία"/>
+      <file id="iAph030004">
+         <divloc n="ii"/>
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καρία"/>
+      <file id="iAph040309">
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καρία"/>
+      <file id="iAph060005">
+         <divloc n="a"/>
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καρία"/>
+      <file id="iAph080406">
+         <divloc n="ii"/>
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Καρία"/>
+      <file id="iAph080410">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κερεταπεύς"/>
+      <file id="iAph120924">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κιβυρατής"/>
+      <file id="iAph080210">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κιβυρατής"/>
+      <file id="iAph120926">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κιβύρα"/>
+      <file id="iAph120214">
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κιβύρα"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="65"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κιλικία"/>
+      <file id="iAph120716">
+         <line n="15"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κλαυδιανός"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="13"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κλαυδιοπολίτης"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="54"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κλαυδιόπολις"/>
+      <file id="iAph120214">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κλαυδιόπολις"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="44"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κλῆρον"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="19"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κολωνεία"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κολωνός"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="48"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κρητάρχης"/>
+      <file id="iAph121001">
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κρήτη"/>
+      <file id="iAph090008">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κρῆς"/>
+      <file id="iAph121001">
+         <line n="8"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κυζικηνός"/>
+      <file id="iAph121111">
+         <line n="13"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κάρ"/>
+      <file id="iAph010131">
+         <sup/>
+         <divloc n="ii"/>
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κάρ"/>
+      <file id="iAph040310">
+         <divloc n="i"/>
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κάρ"/>
+      <file id="iAph150360">
+         <line/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κός"/>
+      <file id="iAph080002">
+         <divloc n="b"/>
+         <divloc n="i"/>
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κύζικος"/>
+      <file id="iAph120716">
+         <line n="16"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Κύπρος"/>
+      <file id="iAph090010">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λαοδικεύς"/>
+      <file id="iAph080026">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λαοδικεύς"/>
+      <file id="iAph080026">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λαοδικεύς"/>
+      <file id="iAph080103">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λαοδικεύς"/>
+      <file id="iAph120027">
+         <divloc n="iii"/>
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λαοδικεύς"/>
+      <file id="iAph120027">
+         <divloc n="iii"/>
+         <line n="14"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λαοδίκεια"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="34"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λαοδίκεια"/>
+      <file id="iAph080002">
+         <divloc n="b"/>
+         <divloc n="i"/>
+         <line n="17"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λαοδίκεια"/>
+      <file id="iAph080003">
+         <divloc n="b"/>
+         <divloc n="i"/>
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λαοδίκεια"/>
+      <file id="iAph080030">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λαοδίκεια"/>
+      <file id="iAph120711">
+         <divloc n="a"/>
+         <divloc n="i"/>
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λαοδίκεια"/>
+      <file id="iAph120711">
+         <divloc n="a"/>
+         <divloc n="ii"/>
+         <line n="11"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λειβον"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="21"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λυκία"/>
+      <file id="iAph050218">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λύκιος"/>
+      <file id="iAph080026">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λύκιος"/>
+      <file id="iAph080026">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Λύκιος"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="50"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Μαιάνδρος"/>
+      <file id="iAph080027">
+         <line n="43"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Μασταυροπολίτης"/>
+      <file id="iAph100004">
+         <divloc n="O"/>
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Μειλησίος"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="50"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Μεσοποταμία"/>
+      <file id="iAph110030">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Μιτυλήνη"/>
+      <file id="iAph120711">
+         <divloc n="a"/>
+         <divloc n="i"/>
+         <line n="11"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Μιτυλήνη"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="35"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Μοψουεστία"/>
+      <file id="iAph120214">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Μοψουεστία"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="60"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Νε]ικοπόλις"/>
+      <file id="iAph010182">
+         <divloc n="a"/>
+         <line n="26"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Νεμεακός"/>
+      <file id="iAph080016">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Νεάπολις"/>
+      <file id="iAph120214">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Νικομήδεια"/>
+      <file id="iAph120215">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Νικομήδεια"/>
+      <file id="iAph120215">
+         <line n="23"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Νικομήδεια"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="41"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Νικέα"/>
+      <file id="iAph120215">
+         <line n="26"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Νικέα"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="42"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Νινεύδιος"/>
+      <file id="iAph110104">
+         <divloc n="i"/>
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Νέμεια"/>
+      <file id="iAph120711">
+         <divloc n="b"/>
+         <divloc n="ii"/>
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Νέμεια"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="14"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Νέμεια"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="23"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Νέμεια"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="24"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πανιάς"/>
+      <file id="iAph120214">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πανιάς"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="57"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Παφίος"/>
+      <file id="iAph020020">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Περγαμηνός"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="47"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Περγεούς"/>
+      <file id="iAph110055">
+         <divloc n="a"/>
+         <divloc n="iii"/>
+         <line n="15"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πεσσινουντίος"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="54"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πεσσινοῦς"/>
+      <file id="iAph120214">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πεσσινοῦς"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="47"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πετιγνα"/>
+      <file id="iAph110404">
+         <divloc n="ii"/>
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πιρουστος"/>
+      <file id="iAph090018">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080002">
+         <divloc n="a"/>
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080024">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080025">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080026">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="17"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="21"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="23"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="28"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="33"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="36"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="42"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="47"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="49"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="51"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="55"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="58"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="63"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="69"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="75"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="78"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="79"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="83"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="84"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="87"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="91"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080027">
+         <line n="93"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080028">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080028">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080028">
+         <line n="8"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080028">
+         <line n="11"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080028">
+         <line n="15"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080030">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080031">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph080210">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλαρασεύς"/>
+      <file id="iAph120904">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλυαρεύς"/>
+      <file id="iAph020506">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλυαρεύς"/>
+      <file id="iAph020506">
+         <line n="8"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλυαρεύς"/>
+      <file id="iAph020506">
+         <line n="14"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλυαρεύς"/>
+      <file id="iAph020506">
+         <line n="19"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πλυαρεύς"/>
+      <file id="iAph080209">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Προυσιάς"/>
+      <file id="iAph120214">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Προυσιάς"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="43"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πάφιος"/>
+      <file id="iAph010202">
+         <divloc n="b"/>
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πέργαμον"/>
+      <file id="iAph120716">
+         <line n="11"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πέργαμον"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="17"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πόντος"/>
+      <file id="iAph120215">
+         <line n="18"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Πόντος"/>
+      <file id="iAph120215">
+         <line n="29"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Σάρδεις"/>
+      <file id="iAph120711">
+         <divloc n="a"/>
+         <divloc n="i"/>
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Σαλβάκη"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Σαλβάκη"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="16"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Σαλβάκη"/>
+      <file id="iAph120927">
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Σαμαρία"/>
+      <file id="iAph120214">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Σαμαρία"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="53"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Σικελία"/>
+      <file id="iAph090011">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Σκυθόπολις"/>
+      <file id="iAph120214">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Σκυθόπολις"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="54"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Σμυρναῖος"/>
+      <file id="iAph080033">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Σμύρνη"/>
+      <file id="iAph080033">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Σμύρνη"/>
+      <file id="iAph120538">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Σμύρνη"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="19"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Σταυρουπολίτης"/>
+      <file id="iAph120101">
+         <sup/>
+         <divloc n="ii"/>
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Στρατονικεία"/>
+      <file id="iAph140014">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Στράτων"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="33"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Στράτων"/>
+      <file id="iAph120214">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Στράτων"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="52"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Συρία"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="35"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Συρία"/>
+      <file id="iAph120214">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Συρία"/>
+      <file id="iAph120711">
+         <divloc n="a"/>
+         <divloc n="ii"/>
+         <line n="12"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Συρία"/>
+      <file id="iAph120711">
+         <divloc n="b"/>
+         <divloc n="i"/>
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Συρία"/>
+      <file id="iAph120716">
+         <line n="13"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Συρία"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="61"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Σίγγαρα"/>
+      <file id="iAph110030">
+         <line n="8"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ταβηνός"/>
+      <file id="iAph080210">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ταβηνός"/>
+      <file id="iAph120929">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ταρσεύς"/>
+      <file id="iAph080026">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ταρσεύς"/>
+      <file id="iAph080026">
+         <line n="10"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ταρσός"/>
+      <file id="iAph120716">
+         <line n="15"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τελεσειτίς"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="26"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τιμέλης"/>
+      <file id="iAph121111">
+         <line n="40"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τραλλιανός"/>
+      <file id="iAph040202">
+         <divloc n="i"/>
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τραλλιανός"/>
+      <file id="iAph080027">
+         <line n="63"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τραλλιανός"/>
+      <file id="iAph080027">
+         <line n="65"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τρουνπείλαι"/>
+      <file id="iAph090003">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τράλλεις"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="42"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τράλλεις"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="43"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τράλλεις"/>
+      <file id="iAph020503">
+         <line n="13"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τράλλεις"/>
+      <file id="iAph150330">
+         <line n="22"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τρίπολις"/>
+      <file id="iAph120214">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τρίπολις"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="61"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τίγρις"/>
+      <file id="iAph110030">
+         <line n="10"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τύρος"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="39"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τύρος"/>
+      <file id="iAph120214">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Τύρος"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="50"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Φιλαδελφία"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="45"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Φιλαδελφία"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="46"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Φιλαδελφία"/>
+      <file id="iAph120214">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Φιλαδελφία"/>
+      <file id="iAph120215">
+         <line n="35"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Φιλαδελφία"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="62"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Φρυγία"/>
+      <file id="iAph030004">
+         <divloc n="ii"/>
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Φρυγία"/>
+      <file id="iAph040309">
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Φάριος"/>
+      <file id="iAph130507">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Φάρμακον"/>
+      <file id="iAph150246">
+         <line n="16"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Χρηστη Ἄλω"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="19"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀγριππείνη"/>
+      <file id="iAph090043">
+         <divloc n="ii"/>
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀδραμύττιον"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="36"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀλλιανοί"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="14"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀναζαρβός"/>
+      <file id="iAph120214">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀναζαρβός"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="59"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀνδιζήτης"/>
+      <file id="iAph090023">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀνκυρανός"/>
+      <file id="iAph120215">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀντιοχεύς"/>
+      <file id="iAph100029">
+         <divloc n="S"/>
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀντιοχεύς"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="34"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀντιοχεύς"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="47"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀντιοχία"/>
+      <file id="iAph120711">
+         <divloc n="b"/>
+         <divloc n="i"/>
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀντιοχία"/>
+      <file id="iAph120716">
+         <line n="14"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀντιοχία"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀντιοχία"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="11"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀπολλωνιάτης"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀπολλωνιάτης"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀπολλωνιάτης"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="8"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀπολλωνιάτης"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="15"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀπολλωνιάτης"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="16"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀπολλωνιάτης"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="25"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀπολλωνιάτης"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="28"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀπολλωνιάτης"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="49"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀπολλωνιάτης"/>
+      <file id="iAph120927">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀπολλωνία"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀπολλωνία"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="13"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀπολλωνία"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="19"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀπολλωνία"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="20"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀπολλωνία"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="27"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀραβία"/>
+      <file id="iAph120214">
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀραβία"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="63"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀρμενία"/>
+      <file id="iAph090013">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀρμενία"/>
+      <file id="iAph090014">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="43"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="46"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph020503">
+         <line n="28"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph020503">
+         <line n="28"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph020503">
+         <line n="33"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph040309">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph050010">
+         <divloc n="i"/>
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph080023">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph080029">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph080033">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph080034">
+         <line n="17"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph080035">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph080103">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph080709">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph110060">
+         <line n="15"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph110412">
+         <line n="26"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph110414">
+         <line n="14"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph120029">
+         <divloc n="ii"/>
+         <line n="17"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph120215">
+         <line n="36"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph120416">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph120520">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph120533">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph120538">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph120538">
+         <line n="23"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph120646">
+         <divloc n="iii"/>
+         <line n="11"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph120711">
+         <divloc n="a"/>
+         <divloc n="i"/>
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph120711">
+         <divloc n="b"/>
+         <divloc n="ii"/>
+         <line n="8"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="18"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="20"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="34"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph120931">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph120932">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph121020">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph121020">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph121020">
+         <line n="10"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph121020">
+         <line n="14"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph121111">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph121111">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀσία"/>
+      <file id="iAph121111">
+         <line n="12"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀτθίς"/>
+      <file id="iAph030008">
+         <divloc n="i"/>
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph010301">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph020019">
+         <sup/>
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph020503">
+         <line n="12"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph020503">
+         <line n="14"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph030008">
+         <divloc n="i"/>
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph050006">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph050214">
+         <divloc n="i"/>
+         <line n="12"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080002">
+         <divloc n="a"/>
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080024">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080025">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080026">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080026">
+         <line n="10"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="16"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="17"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="21"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="23"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="28"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="29"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="33"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="36"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="47"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="49"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="51"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="55"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="58"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="63"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="64"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="66"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="70"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="75"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="78"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="79"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="83"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="84"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="87"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="91"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080027">
+         <line n="93"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080028">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080028">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080028">
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080028">
+         <line n="8"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080028">
+         <line n="11"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080028">
+         <line n="12"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080028">
+         <line n="15"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080030">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080031">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080031">
+         <line n="19"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080032">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080034">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080035">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080035">
+         <divloc n="a"/>
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080036">
+         <line n="8"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080037">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080099">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080101">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080102">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080102">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080103">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080114">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080210">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080273">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph080410">
+         <sup/>
+         <line n="10"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph090043">
+         <sup/>
+         <divloc n="i"/>
+         <line n="17"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph100027">
+         <divloc n="Y"/>
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph110412">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph110412">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph110412">
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph110412">
+         <line n="16"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph110412">
+         <line n="30"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph110412">
+         <line n="44"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120025">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120027">
+         <divloc n="ii"/>
+         <line n="18"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120027">
+         <divloc n="ii"/>
+         <line n="22"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120027">
+         <divloc n="iii"/>
+         <line n="16"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120215">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120533">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120538">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120643">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120904">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120918">
+         <line n="10"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120920">
+         <divloc n="i"/>
+         <divloc n="a"/>
+         <line n="39"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="22"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="26"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="29"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="33"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120922">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120922">
+         <line n="10"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120924">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120925">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120926">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120927">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120928">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120929">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph120930">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph121001">
+         <sup/>
+         <line n="8"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph121111">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph140012">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph150281">
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph150313">
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιεύς"/>
+      <file id="iAph150346">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιάς"/>
+      <file id="iAph080027">
+         <line n="92"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισιάς"/>
+      <file id="iAph080033">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδεισίηον"/>
+      <file id="iAph120035">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀφροδισίας"/>
+      <file id="iAph040202">
+         <divloc n="ii"/>
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀχερων"/>
+      <file id="iAph110069">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἀχερων"/>
+      <file id="iAph130501">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἁλικαρνασσεύς"/>
+      <file id="iAph120027">
+         <divloc n="i"/>
+         <line n="23"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἁίδης"/>
+      <file id="iAph130501">
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἄγκυρα"/>
+      <file id="iAph120214">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἄγκυρα"/>
+      <file id="iAph120215">
+         <line n="12"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἄγκυρα"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="45"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἄραβες"/>
+      <file id="iAph090004">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἄργος"/>
+      <file id="iAph120716">
+         <line n="8"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἅλον"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="19"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἅλον"/>
+      <file id="iAph120026">
+         <divloc n="c"/>
+         <line n="26"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἐφέσηον"/>
+      <file id="iAph010182">
+         <divloc n="a"/>
+         <line n="27"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἐφέσιος"/>
+      <file id="iAph020503">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἐφέσιος"/>
+      <file id="iAph080027">
+         <line n="41"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἐφέσιος"/>
+      <file id="iAph080027">
+         <line n="57"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἐφέσιος"/>
+      <file id="iAph080031">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἑβραῖος"/>
+      <file id="iAph020006">
+         <divloc n="8"/>
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἑβραῖος"/>
+      <file id="iAph020018">
+         <divloc n="6"/>
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἔφεσος"/>
+      <file id="iAph010182">
+         <divloc n="a"/>
+         <line n="27"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἔφεσος"/>
+      <file id="iAph080027">
+         <line n="41"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἔφεσος"/>
+      <file id="iAph080027">
+         <line n="57"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἔφεσος"/>
+      <file id="iAph120538">
+         <line n="23"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἔφεσος"/>
+      <file id="iAph120711">
+         <divloc n="b"/>
+         <divloc n="i"/>
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἔφεσος"/>
+      <file id="iAph120711">
+         <divloc n="b"/>
+         <divloc n="ii"/>
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἔφεσος"/>
+      <file id="iAph120716">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἔφεσος"/>
+      <file id="iAph120716">
+         <line n="18"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἔφεσος"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="16"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἕλλην"/>
+      <file id="iAph020503">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἕλλην"/>
+      <file id="iAph020503">
+         <line n="15"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἕλλην"/>
+      <file id="iAph020503">
+         <line n="16"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἕλλην"/>
+      <file id="iAph020503">
+         <line n="25"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἕλλην"/>
+      <file id="iAph020503">
+         <line n="26"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἕλλην"/>
+      <file id="iAph020503">
+         <line n="29"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἕλλην"/>
+      <file id="iAph110412">
+         <sup/>
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἕλλην"/>
+      <file id="iAph110412">
+         <line n="8"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἡρακλεωτής"/>
+      <file id="iAph120928">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἡρακλεία"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="37"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἡρακλεία"/>
+      <file id="iAph120215">
+         <line n="17"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἡρακλεία"/>
+      <file id="iAph120215">
+         <line n="28"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἡρακλεία"/>
+      <file id="iAph120711">
+         <divloc n="e"/>
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἡρακλεία"/>
+      <file id="iAph150330">
+         <line n="16"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἰαποδες"/>
+      <file id="iAph090022">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἰταλιῶτις"/>
+      <file id="iAph030008">
+         <divloc n="i"/>
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἱεραπολιτής"/>
+      <file id="iAph080402">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἱεραπολιτής"/>
+      <file id="iAph080403">
+         <sup/>
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἱεραπολιτής"/>
+      <file id="iAph120027">
+         <divloc n="iii"/>
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἱερὰ πόλις"/>
+      <file id="iAph120711">
+         <divloc n="a"/>
+         <divloc n="ii"/>
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἱεράπολις"/>
+      <file id="iAph010182">
+         <divloc n="b"/>
+         <line n="29"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἱερόπολις"/>
+      <file id="iAph120214">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἱερόπολις"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="c"/>
+         <line n="58"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ἴσθμια"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="15"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ὀλύμπια"/>
+      <file id="iAph050006">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ὀλύμπια"/>
+      <file id="iAph120716">
+         <line n="16"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ὀλύμπια"/>
+      <file id="iAph120716">
+         <line n="17"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ὀλύμπια"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="25"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ὀλύμπια"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="28"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ὄλυμπος"/>
+      <file id="iAph110069">
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ὠκεανός"/>
+      <file id="iAph080263">
+         <divloc n="a"/>
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ὠκεανός"/>
+      <file id="iAph080263">
+         <divloc n="b"/>
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ὠκεανός"/>
+      <file id="iAph090007">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥαιταί"/>
+      <file id="iAph090002">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαίς"/>
+      <file id="iAph120026">
+         <divloc n="a"/>
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαίς"/>
+      <file id="iAph120026">
+         <divloc n="d"/>
+         <line n="11"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαίς"/>
+      <file id="iAph121007">
+         <line n="21"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph010001">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph010038">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080002">
+         <divloc n="a"/>
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080002">
+         <divloc n="b"/>
+         <divloc n="i"/>
+         <line n="24"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080003">
+         <sup/>
+         <divloc n="b"/>
+         <divloc n="i"/>
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080003">
+         <divloc n="b"/>
+         <divloc n="i"/>
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080003">
+         <divloc n="b"/>
+         <divloc n="i"/>
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080003">
+         <divloc n="b"/>
+         <divloc n="ii"/>
+         <line n="13"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080003">
+         <divloc n="b"/>
+         <divloc n="ii"/>
+         <line n="14"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080026">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080027">
+         <line n="18"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080027">
+         <line n="24"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080027">
+         <line n="25"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080027">
+         <line n="31"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080027">
+         <line n="32"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080027">
+         <line n="39"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080027">
+         <line n="46"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080027">
+         <line n="54"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080027">
+         <line n="54"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080027">
+         <line n="59"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080027">
+         <line n="66"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080027">
+         <line n="72"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080027">
+         <line n="80"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080027">
+         <line n="84"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080028">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080028">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080028">
+         <line n="7"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080028">
+         <line n="13"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080037">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080040">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080102">
+         <line n="4"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph080114">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph110412">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph120305">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph120320">
+         <line n="8"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph120524">
+         <line n="16"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph120904">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph120911">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥωμαῖος"/>
+      <file id="iAph140012">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥόδιος"/>
+      <file id="iAph080026">
+         <line n="3"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥόδιος"/>
+      <file id="iAph080026">
+         <line n="9"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph080002">
+         <divloc n="b"/>
+         <divloc n="ii"/>
+         <line n="14"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph080027">
+         <line n="47"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph080027">
+         <line n="77"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph080027">
+         <line n="77"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph080027">
+         <line n="79"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph080027">
+         <line n="92"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph080028">
+         <line n="10"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph080028">
+         <line n="10"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph080028">
+         <line n="12"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph080210">
+         <line n="2"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph090015">
+         <line n="1"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph120036">
+         <line n="15"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph120103">
+         <line n="6"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph120306">
+         <divloc n="i"/>
+         <line n="13"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph120701">
+         <line n="16"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph120920">
+         <divloc n="ii"/>
+         <divloc n="b"/>
+         <line n="28"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph130507">
+         <line n="5"/>
+      </file>
+   </word>
+   <word lang="grc">
+      <head reg="Ῥώμη"/>
+      <file id="iAph150330">
+         <line n="6"/>
+      </file>
+   </word>
+</xquery>
