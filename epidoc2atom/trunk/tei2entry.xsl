@@ -2,6 +2,21 @@
 <xsl:stylesheet 
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
     
+    <xsl:import  href="getdoctitle.xsl"/>
+    <xsl:import href="sanitize.xsl"/>
+    <xsl:import href="findspot.xsl"/>
+    <xsl:import href="makelink.xsl"/>
+    <xsl:import href="origlocation.xsl"/>
+    <xsl:import href="lastlocation.xsl"/>
+    <xsl:import href="atteststo.xsl"/>
+    
+    <xsl:param name="defaultfindspot"></xsl:param>
+    
+    <xsl:param name="term-findspot">http://gawd.atlantides.org/terms/findspot</xsl:param>
+    <xsl:param name="term-atteststo">http://gawd.atlantides.org/terms/attestsTo</xsl:param>
+    <xsl:param name="term-observedat">http://gawd.atlantides.org/terms/observedAt</xsl:param>
+    
+    
     <xsl:output encoding="UTF-8" indent="yes" method="xml"  exclude-result-prefixes="#all"/>
     
     <xsl:param name="tagdomain">insaph.kcl.ac.uk</xsl:param>
@@ -11,6 +26,8 @@
     <xsl:param name="altcommonpath">iaph2007/</xsl:param>
     <xsl:param name="altcommonextension">.html</xsl:param>
     <xsl:param name="updateddate">2008-04-01T00:00:00.1Z</xsl:param>
+    <xsl:param name="placeiddoc">tests/data/iaph2007/places.xml</xsl:param>
+    <xsl:param name="nameiddoc">tests/data/iaph2007/names.xml</xsl:param>
     
     <xsl:template match="/">
         <xsl:apply-templates/>
@@ -34,12 +51,17 @@
             <id>tag:<xsl:value-of select="$tagdomain"/>,<xsl:value-of select="$tagdate"/>:/<xsl:value-of select="$tagcommonprefix"/><xsl:value-of select="@id"/><xsl:value-of select="$tagcommonpostfix"/></id>
             
             <!-- atom:title -->
-            <title><xsl:value-of select="normalize-space(teiHeader/fileDesc/titleStmt/title)"/></title>
+            <!-- <title><xsl:value-of select="normalize-space(teiHeader/fileDesc/titleStmt/title)"/></title> -->
+            <title><xsl:call-template name="getdoctitle"/></title>
             
-            <xsl:element name="link">
-                <xsl:attribute name="rel">alternate</xsl:attribute>
-                <xsl:attribute name="href">http://<xsl:value-of select="$altdomain"/>/<xsl:value-of select="$altcommonpath"/><xsl:value-of select="@id"/><xsl:value-of select="$altcommonextension"/></xsl:attribute>
-            </xsl:element>
+            <xsl:call-template name="makelink">
+                <xsl:with-param name="href">http://<xsl:value-of select="$altdomain"/>/<xsl:value-of select="$altcommonpath"/><xsl:value-of select="@id"/><xsl:value-of select="$altcommonextension"/></xsl:with-param>
+            </xsl:call-template>
+            
+            <xsl:call-template name="findspot"/>
+            <xsl:call-template name="origlocation"/>
+            <xsl:call-template name="lastlocation"/>
+            <xsl:call-template name="atteststo"/>
             
             <published><xsl:value-of select="$published"/></published>
             
@@ -75,10 +97,6 @@
         </summary>
     </xsl:template>
     
-    <xsl:template match="p" mode="sanitize">
-        <xsl:variable name="theval" select="normalize-space(.)"/>
-        <xsl:text></xsl:text><xsl:value-of select="$theval"/><xsl:if test="not(substring($theval,string-length($theval), 1) = '.')">.</xsl:if><xsl:text> </xsl:text>
-    </xsl:template>
     
     
 </xsl:stylesheet>

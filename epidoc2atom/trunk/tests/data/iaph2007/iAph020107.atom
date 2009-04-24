@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom">
+    <author>
+        <name>Joyce M. Reynolds</name>
+    </author>
+    <rights>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/).
+        All reuse or distribution of this work must contain somewhere a link back to the URL
+        http://insaph.kcl.ac.uk/. </rights>
+    <id>tag:insaph.kcl.ac.uk,2007-04-04:/iaph2007/iAph020107</id>
+    <title>Funerary fragment from Odeon</title>
+    <link rel="alternate" href="http://insaph.kcl.ac.uk/iaph2007/iAph020107.html"/>
+    <!--findspot(s)-->
+    <link rel="http://gawd.atlantides.org/terms/findspot"
+        href="http://bacchus.atlantides.org/places/638753"/>
+
+    <!--original location(s)-->
+
+
+    <!--observed location(s)-->
+
+
+    <!--attestations-->
+
+
+    <published>2007-04-04T00:00:00.1Z</published>
+    <updated>2008-04-01T00:00:00.1Z</updated>
+    <summary type="text">White marble fragment without edges (0.39 × 0.10 × 0.18). Inscribed on the
+        surviving face. Date: Second to third centuries A.D. (lettering). Photo. Recorded by the NYU
+        expedition (Odeon 21). Unpublished. </summary>
+</entry>
