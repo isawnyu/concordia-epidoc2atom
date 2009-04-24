@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom">
+    <author>
+        <name>Charlotte M. Roueché</name>
+    </author>
+    <rights>Creative Commons licence Attribution 2.5 (http://creativecommons.org/licenses/by/2.5/).
+        All reuse or distribution of this work must contain somewhere a link back to the URL
+        http://insaph.kcl.ac.uk/. </rights>
+    <id>tag:insaph.kcl.ac.uk,2004-06-08:/iaph2007/iAph040202</id>
+    <title>Verse honours: i. for Ampelios, father of the city; ii. and iii. for Doulkitios,
+        governor, on the Agora Gate</title>
+    <link rel="alternate" href="http://insaph.kcl.ac.uk/iaph2007/iAph040202.html"/>
+    <!--findspot(s)-->
+    <link rel="http://gawd.atlantides.org/terms/findspot"
+        href="http://bacchus.atlantides.org/places/638753"/>
+
+    <!--original location(s)-->
+    <!--findspot-->
+
+    <!--observed location(s)-->
+    <link rel="http://gawd.atlantides.org/terms/observedAt"
+        href="http://bacchus.atlantides.org/places/638753"/>
+
+    <!--attestations-->
+    <link rel="http://gawd.atlantides.org/terms/attestsTo"
+        href="http://bacchus.atlantides.org/places/638753/aphrodisias"/>
+
+    <published>2004-06-08T00:00:00.1Z</published>
+    <updated>2008-04-01T00:00:00.1Z</updated>
+    <summary type="text">'Agora Gate', at the east end of the South Agora. i., ii. and iii are all
+        cut, clearly set out as a group, on the façade, on the highest remaining course of blocks,
+        which was capped above by a moulded course. i. is cut on the northernmost of a series of
+        projecting bastions; ii. is on the next bastion to the south, whose surface is largely lost;
+        three loose fragments were found in 1983. The third bastion shows no sign of any
+        inscription; iii. is cut on the fourth. i. and ii. are on a smooth face, but iii. is cut
+        partly on a rough surface. Date: Mid fifth century (titulature). Photos. Excavated in 1980
+        by the NYU expedition (80.28, 80.29 and 80.53). Published by Roueché, Aphrodisias in Late
+        Antiquity nos. 38, 39, 40 and plates x and xi, whence McCabe PHI Aphrodisias 714, 704, 717,
+        Steinepigramme 02/09/03, 02/09/08, 02/09/07; iii. republished by Roueché, PPA 65 whence
+        Mentzou-Meimares BZ 89 (1996), 58-73, whence SEG 1996.1395. </summary>
+</entry>

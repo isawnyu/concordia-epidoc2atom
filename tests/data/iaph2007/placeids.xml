@@ -1,0 +1,328 @@
+<matches>
+    <match>
+        <alistgeoitem>
+            <id>ApolloniaPis</id>
+            <geogname>Apollonia</geogname>
+            <mapnum>65</mapnum>
+            <gridsquare>D1</gridsquare>
+            <modname>False</modname>
+            <locdesc>in Pisidia</locdesc>
+            <type>None</type>
+            <extra>None</extra>
+        </alistgeoitem>
+        <batlasmatches>
+            <batlasitem>
+                <confidence>1.0</confidence>
+                <id>apollonia-mordiaion-sozopolis-65-d1</id>
+                <mapnum>65</mapnum>
+                <type>labeled feature</type>
+                <gridsquare>D1</gridsquare>
+                <citation>BAtlas 65 D1 Sozopolis</citation>
+                <locdesc>Uluborlu</locdesc>
+                <label>Apollonia/Mordiaion/Sozopolis</label>
+                <geogname>Apollonia</geogname>
+            </batlasitem>
+        </batlasmatches>
+    </match>
+    <match>
+        <alistgeoitem>
+            <id>Hierapolis</id>
+            <geogname>Hierapolis</geogname>
+            <mapnum>65</mapnum>
+            <gridsquare>B2</gridsquare>
+            <modname>False</modname>
+            <locdesc>None</locdesc>
+            <type>None</type>
+            <extra>None</extra>
+        </alistgeoitem>
+        <batlasmatches>
+            <batlasitem>
+                <confidence>1.0</confidence>
+                <id>hierapolis-65-b2</id>
+                <mapnum>65</mapnum>
+                <type>labeled feature</type>
+                <gridsquare>B2</gridsquare>
+                <citation>BAtlas 65 B2 Hierapolis</citation>
+                <locdesc>Pamukkale</locdesc>
+                <label>Hierapolis</label>
+                <geogname>Hierapolis</geogname>
+            </batlasitem>
+        </batlasmatches>
+    </match>
+    <match>
+        <alistgeoitem>
+            <id>Myra</id>
+            <geogname>Myra</geogname>
+            <mapnum>65</mapnum>
+            <gridsquare>C5</gridsquare>
+            <modname>False</modname>
+            <locdesc>None</locdesc>
+            <type>None</type>
+            <extra>None</extra>
+        </alistgeoitem>
+        <batlasmatches>
+            <batlasitem>
+                <confidence>1.0</confidence>
+                <id>myra-65-c5</id>
+                <mapnum>65</mapnum>
+                <type>labeled feature</type>
+                <gridsquare>C5</gridsquare>
+                <citation>BAtlas 65 C5 Myra</citation>
+                <locdesc>Demre</locdesc>
+                <label>Myra</label>
+                <geogname>Myra</geogname>
+            </batlasitem>
+        </batlasmatches>
+    </match>
+    <match>
+        <alistgeoitem>
+            <id>Oenoanda</id>
+            <geogname>Oenoanda</geogname>
+            <mapnum>65</mapnum>
+            <gridsquare>C4</gridsquare>
+            <modname>False</modname>
+            <locdesc>None</locdesc>
+            <type>None</type>
+            <extra>None</extra>
+        </alistgeoitem>
+        <batlasmatches>
+            <batlasitem>
+                <confidence>1.0</confidence>
+                <id>oenoanda-termessos-mikra-65-c4</id>
+                <mapnum>65</mapnum>
+                <type>labeled feature</type>
+                <gridsquare>C4</gridsquare>
+                <citation>BAtlas 65 C4 &#167;Termessos pros Oinoandois</citation>
+                <locdesc>&#304;ncealiler</locdesc>
+                <label>Oenoanda/Termessos Mikra</label>
+                <geogname>Oenoanda</geogname>
+            </batlasitem>
+        </batlasmatches>
+    </match>
+    <match>
+        <alistgeoitem>
+            <id>Perge</id>
+            <geogname>Perge</geogname>
+            <mapnum>65</mapnum>
+            <gridsquare>E4</gridsquare>
+            <modname>False</modname>
+            <locdesc>None</locdesc>
+            <type>None</type>
+            <extra>None</extra>
+        </alistgeoitem>
+        <batlasmatches>
+            <batlasitem>
+                <confidence>1.0</confidence>
+                <id>perge-65-e4</id>
+                <mapnum>65</mapnum>
+                <type>labeled feature</type>
+                <gridsquare>E4</gridsquare>
+                <citation>BAtlas 65 E4 Perge</citation>
+                <locdesc>Aksu</locdesc>
+                <label>Perge</label>
+                <geogname>Perge</geogname>
+            </batlasitem>
+        </batlasmatches>
+    </match>
+    <match>
+        <alistgeoitem>
+            <id>Plarasa</id>
+            <geogname>Plarasa</geogname>
+            <mapnum>65</mapnum>
+            <gridsquare>A2</gridsquare>
+            <modname>False</modname>
+            <locdesc>None</locdesc>
+            <type>None</type>
+            <extra>None</extra>
+        </alistgeoitem>
+        <batlasmatches>
+            <batlasitem>
+                <confidence>1.0</confidence>
+                <id>plarasa-65-a2</id>
+                <mapnum>65</mapnum>
+                <type>labeled feature</type>
+                <gridsquare>A2</gridsquare>
+                <citation>BAtlas 65 A2 Plarasa</citation>
+                <locdesc>Binge&#231;</locdesc>
+                <label>Plarasa</label>
+                <geogname>Plarasa</geogname>
+            </batlasitem>
+        </batlasmatches>
+    </match>
+    <match>
+        <alistgeoitem>
+            <id>Sanaos</id>
+            <geogname>Sanaos</geogname>
+            <mapnum>65</mapnum>
+            <gridsquare>C2</gridsquare>
+            <modname>False</modname>
+            <locdesc>None</locdesc>
+            <type>None</type>
+            <extra>None</extra>
+        </alistgeoitem>
+        <batlasmatches>
+            <batlasitem>
+                <confidence>1.0</confidence>
+                <id>anaua-sanaos-65-c2</id>
+                <mapnum>65</mapnum>
+                <type>labeled feature</type>
+                <gridsquare>C2</gridsquare>
+                <citation>BAtlas 65 C2 Sanaos</citation>
+                <locdesc>Sar&#305; Kavak</locdesc>
+                <label>Anaua/Sanaos</label>
+                <geogname>Sanaos</geogname>
+            </batlasitem>
+        </batlasmatches>
+    </match>
+    <match>
+        <alistgeoitem>
+            <id>Selge</id>
+            <geogname>Selge</geogname>
+            <mapnum>65</mapnum>
+            <gridsquare>F3</gridsquare>
+            <modname>False</modname>
+            <locdesc>None</locdesc>
+            <type>None</type>
+            <extra>None</extra>
+        </alistgeoitem>
+        <batlasmatches>
+            <batlasitem>
+                <confidence>1.0</confidence>
+                <id>selge-65-f3</id>
+                <mapnum>65</mapnum>
+                <type>labeled feature</type>
+                <gridsquare>F3</gridsquare>
+                <citation>BAtlas 65 F3 &#167;Selgeis</citation>
+                <locdesc>Zerk between Selge and Cagrai</locdesc>
+                <label>Selge</label>
+                <geogname>Selge</geogname>
+            </batlasitem>
+        </batlasmatches>
+    </match>
+    <match>
+        <alistgeoitem>
+            <id>Side</id>
+            <geogname>Side</geogname>
+            <mapnum>65</mapnum>
+            <gridsquare>F4</gridsquare>
+            <modname>False</modname>
+            <locdesc>None</locdesc>
+            <type>None</type>
+            <extra>None</extra>
+        </alistgeoitem>
+        <batlasmatches>
+            <batlasitem>
+                <confidence>1.0</confidence>
+                <id>side-65-f4</id>
+                <mapnum>65</mapnum>
+                <type>labeled feature</type>
+                <gridsquare>F4</gridsquare>
+                <citation>BAtlas 65 F4 Side</citation>
+                <locdesc>Selimiye</locdesc>
+                <label>Side</label>
+                <geogname>Side</geogname>
+            </batlasitem>
+        </batlasmatches>
+    </match>
+    <match>
+        <alistgeoitem>
+            <id>Sidyma</id>
+            <geogname>Sidyma</geogname>
+            <mapnum>65</mapnum>
+            <gridsquare>B5</gridsquare>
+            <modname>False</modname>
+            <locdesc>None</locdesc>
+            <type>None</type>
+            <extra>None</extra>
+        </alistgeoitem>
+        <batlasmatches>
+            <batlasitem>
+                <confidence>1.0</confidence>
+                <id>sidyma-65-b5</id>
+                <mapnum>65</mapnum>
+                <type>labeled feature</type>
+                <gridsquare>B5</gridsquare>
+                <citation>BAtlas 65 B5 Sidyma</citation>
+                <locdesc>Dodurga</locdesc>
+                <label>Sidyma</label>
+                <geogname>Sidyma</geogname>
+            </batlasitem>
+        </batlasmatches>
+    </match>
+    <match>
+        <alistgeoitem>
+            <id>Sozopolis1</id>
+            <geogname>Sozopolis</geogname>
+            <mapnum>65</mapnum>
+            <gridsquare>D1</gridsquare>
+            <modname>False</modname>
+            <locdesc>None</locdesc>
+            <type>None</type>
+            <extra>later name of Apollonia in Pisidia</extra>
+        </alistgeoitem>
+        <batlasmatches>
+            <batlasitem>
+                <confidence>1.0</confidence>
+                <id>apollonia-mordiaion-sozopolis-65-d1</id>
+                <mapnum>65</mapnum>
+                <type>labeled feature</type>
+                <gridsquare>D1</gridsquare>
+                <citation>BAtlas 65 D1 Sozopolis</citation>
+                <locdesc>Uluborlu</locdesc>
+                <label>Apollonia/Mordiaion/Sozopolis</label>
+                <geogname>Sozopolis</geogname>
+            </batlasitem>
+        </batlasmatches>
+    </match>
+    <match>
+        <alistgeoitem>
+            <id>Xanthos</id>
+            <geogname>Xanthos</geogname>
+            <mapnum>65</mapnum>
+            <gridsquare>B5</gridsquare>
+            <modname>False</modname>
+            <locdesc>None</locdesc>
+            <type>None</type>
+            <extra>None</extra>
+        </alistgeoitem>
+        <batlasmatches>
+            <batlasitem>
+                <confidence>1.0</confidence>
+                <id>xanthos-65-b5</id>
+                <mapnum>65</mapnum>
+                <type>labeled feature</type>
+                <gridsquare>B5</gridsquare>
+                <citation>BAtlas 65 B5 Xanthos</citation>
+                <locdesc>K&#305;n&#305;k</locdesc>
+                <label>Xanthos</label>
+                <geogname>Xanthos</geogname>
+            </batlasitem>
+            <batlasitem>
+                <confidence>1.0</confidence>
+                <id>xanthos-fl-sirbis-fl-65-b5</id>
+                <mapnum>65</mapnum>
+                <type>labeled feature</type>
+                <gridsquare>B5</gridsquare>
+                <citation>BAtlas 65 B5 Sirbis fl.</citation>
+                <locdesc>Esen &#199;ay</locdesc>
+                <label>Xanthos/Sirbis fl.</label>
+                <geogname>Xanthos</geogname>
+            </batlasitem>
+        </batlasmatches>
+    </match>
+    <match>
+        <source>
+            <id>Aphrodisias</id>
+            <placeName>Ἀφροδισίας</placeName>
+        </source>
+        <batlasmatches>
+            <batlasmatch>
+                <id>aphrodisias-ninoe-65-a2</id>
+                <citation>BAtlas 65 A2 Aphrodisias/Ninoe</citation>
+            </batlasmatch>
+        </batlasmatches>
+        <pleiadesmatch>
+            <id>http://bacchus.atlantides.org/places/638753</id>
+        </pleiadesmatch>
+    </match>
+</matches>
