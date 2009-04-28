@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE list SYSTEM "../../../IRCyr/xmldev/01_process/dtd/tei/cch_tei.dtd">-->
+<list n="locationAL">
+    <item n="1">Temple / Church Area<list>
+            <item n="a" reg="temple/church">Temple / Church</item>
+            <item n="b" reg="temple/church, north temenos building">North Temenos Building</item>
+            <item n="c" reg="tetrapylon">Tetrapylon</item>
+        </list>
+    </item>
+    <item n="2">Bouleuterion / Odeon Area<list>
+            <item n="a" reg="bouleuterion/odeon">Bouleuterion / Odeon</item>
+            <item n="b" reg="bouleuterion/odeon, north area">Bouleuterion / Odeon, North Area</item>
+            <item n="c" reg="bouleuterion/odeon, west area">Bouleuterion / Odeon, West Area and "Bishop's Palace"</item>
+            <item n="d" reg="bouleuterion/odeon, east area">Bouleuterion / Odeon, East Area</item>
+        </list>
+    </item>
+    <item n="3" reg="north agora">North Agora</item>
+    <item n="4">South Agora<list>
+            <item n="a" reg="south agora">South Agora</item>
+            <item n="b" reg="south agora, agora gate">South Agora, Agora Gate</item>
+        </list>
+    </item>
+    <item n="5">Hadrianic Baths Area<list>
+            <item n="a" reg="hadrianic baths">Hadrianic Baths</item>
+            <item n="b" reg="hadrianic baths, east court">Hadrianic Baths, East Court</item>
+        </list>
+    </item>
+    <item n="6" reg="basilica">Basilica</item>
+    <item n="7" reg="martyrion">Martyrion</item>
+    <item n="8">Theatre Area<list>
+            <item n="a" reg="theatre">Theatre</item>
+            <item n="b" reg="tetrastoon">Tetrastoon</item>
+            <item n="c" reg="theatre baths">Theatre Baths</item>
+            <item n="d" reg="acropolis">Acropolis</item>
+        </list>
+    </item>
+    <item n="9" reg="sebasteion">Sebasteion</item>
+    <item n="10" reg="stadium">Stadium</item>
+    <item n="11">City (within walls)<list>
+            <item n="a" reg="city, village">City, Village</item>
+            <item n="b" reg="city, north-east">City, North-east</item>
+            <item n="c" reg="city, water channel area">City, Water Channel Area</item>
+            <item n="d" reg="city, south-east">City, South-east</item>
+            <item n="e" reg="city, south-west">City, South-west</item>
+            <item n="f" reg="city, north-west">City, North-west</item>
+            <item n="g" reg="city">City, Unknown</item>
+        </list>
+    </item>
+    <item n="12">Walls<list>
+            <item n="a" reg="walls, north">Walls, North</item>
+            <item n="b" reg="walls, north-east">Walls, North-east</item>
+            <item n="c" reg="walls, east (north part)">Walls, East (north part)</item>
+            <item n="d" reg="walls, east (south part)">Walls, East (south part)</item>
+            <item n="e" reg="walls, south-east gate">Walls, South-east Gate</item>
+            <item n="f" reg="walls, south-east">Walls, South-east</item>
+            <item n="g" reg="walls, south (east part)">Walls, South (east part)</item>
+            <item n="h" reg="walls, south (west part)">Walls, South (west part)</item>
+            <item n="i" reg="walls, south-west">Walls, South-west</item>
+            <item n="j" reg="walls, west">Walls, West</item>
+            <item n="k" reg="walls, west gate">Walls, West Gate</item>
+            <item n="l" reg="walls, north-west">Walls, North-west</item>
+            <item n="m" reg="walls">Walls, Unknown</item>
+        </list>
+    </item>
+    <item n="13">Necropolis<list>
+            <item n="a" reg="necropolis, north">Necropolis, North</item>
+            <item n="b" reg="necropolis, north-east">Necropolis, North-east</item>
+            <item n="c" reg="necropolis, north-east, ata eymir">Necropolis, North-east, Ata Eymir</item>
+            <item n="d" reg="necropolis, south-east">Necropolis, South-east</item>
+            <item n="e" reg="necropolis, south">Necropolis, South</item>
+            <item n="f" reg="necropolis, south-west">Necropolis, South-west</item>
+            <item n="g" reg="necropolis, west">Necropolis, West</item>
+            <item n="h" reg="necropolis">Necropolis, Unknown</item>
+        </list>
+    </item>
+    <item n="14">Neighbouring settlements<list>
+            <item n="a" reg="neighbouring settlement, güzelkoy">Güzelkoy</item>
+            <item n="b" reg="neighbouring settlement, hirka">Hirka</item>
+            <item n="c" reg="karaçasu">Karaçasu</item>
+            <item n="d" reg="neighbouring settlement, nazilli">Nazilli</item>
+            <item n="e" reg="neighbouring settlement, palamuçuk">Palamuçuk</item>
+            <item n="f" reg="neighbouring settlement, pirlibey">Pirlibey</item>
+            <item n="g" reg="neighbouring settlement, seki">Seki</item>
+            <!--<item n="h" reg="neighbouring settlement, new geyre">New Geyre</item>-->
+        </list>
+    </item>
+    <item n="15">Stray<list>
+            <item n="a" reg="old museum">Old Museum</item>
+            <item n="b" reg="collection">Collections</item>
+            <item n="c" reg="stray">Stray</item>
+        </list>
+    </item>
+</list>
