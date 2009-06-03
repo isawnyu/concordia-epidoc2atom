@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:/Users/tom/Sandbox/www.atlantides.org/gawd-vocab/atom11.rnc" type="compact"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+     <!-- feed details for Inscriptions of Aphrodisias 2007 -->
+    <author><name>Joyce Reynolds</name></author>
+    <author><name>Charlotte Roueché</name></author>
+    <author><name>Gabriel Bodard</name></author>
+    <title>Inscriptions of Aphrodisias (2007)</title>
+    <link href="http://atlantides.org/iaph2007/index.atom"
+        type="application/atom+xml" rel="self"/>
+    <link href="http://insaph.kcl.ac.uk/iaph2007/index.html"
+        type="text/html" rel="alternate"/>
+    <updated>2009-06-03T00:00:00Z</updated>
+    <id>tag:insaph.kcl.ac.uk,2007-10-01:/iaph2007/index</id>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <div  class="content-files">/Users/tom/Sandbox/www.atlantides.org/iaph2007</div>
+    </div>
+    
+</feed>

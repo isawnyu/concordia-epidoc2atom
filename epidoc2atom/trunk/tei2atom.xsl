@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet 
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    version="2.0">
     
     <xsl:import  href="getdoctitle.xsl"/>
     <xsl:import href="sanitize.xsl"/>
@@ -11,6 +14,7 @@
     <xsl:import href="atteststo.xsl"/>
     <xsl:import href="massage-datetime.xsl"/>
     
+    <xsl:param name="feeddetailsfile"></xsl:param>
     <xsl:param name="defaultfindspot"></xsl:param>
     
     <xsl:param name="term-findspot">http://gawd.atlantides.org/terms/findspot</xsl:param>
@@ -26,18 +30,36 @@
     <xsl:param name="altdomain">insaph.kcl.ac.uk</xsl:param>
     <xsl:param name="altcommonpath">iaph2007/</xsl:param>
     <xsl:param name="altcommonextension">.html</xsl:param>
-    <xsl:param name="updateddate">2008-04-01T00:00:00.1Z</xsl:param>
+    <xsl:param name="updateddate">2008-04-01T00:00:00Z</xsl:param>
     <xsl:param name="placeiddoc">tests/data/iaph2007/places.xml</xsl:param>
     <xsl:param name="nameiddoc">tests/data/iaph2007/names.xml</xsl:param>
     
     <xsl:template match="/">
-        <xsl:apply-templates/>
+        <feed xmlns="http://www.w3.org/2005/Atom">
+            <xsl:for-each select="document($feeddetailsfile)/descendant::atom:feed/*">
+                <xsl:if test="local-name() != 'div'"><xsl:copy-of select="."/></xsl:if>
+            </xsl:for-each>
+            <!-- add code to parse all the inscriptions -->
+            <xsl:variable name="content-files">
+                <xsl:for-each select="document($feeddetailsfile)/descendant::atom:feed/xhtml:div/xhtml:div[@class='content-files']">
+                    <xsl:value-of select="normalize-space(.)"/>
+                </xsl:for-each>
+            </xsl:variable>
+            <xsl:variable name="coll-arg">
+                <xsl:text></xsl:text>file://<xsl:value-of select="$content-files"/>?recurse=yes;validation=strip;select=*.xml<xsl:text></xsl:text>
+            </xsl:variable>
+            
+            <xsl:for-each select="collection($coll-arg)">
+                <xsl:apply-templates select="./descendant-or-self::TEI.2"/>
+            </xsl:for-each> 
+        </feed>
     </xsl:template>
     
     <xsl:template match="TEI.2">
-        
+        <xsl:comment>TEI.2</xsl:comment>
         <!-- get published date, which we'll need both for the id and atom:published -->
         <xsl:variable name="published">
+            <!-- need to figure out why there's no revision info coming through for a bunch of files -->
             <xsl:for-each select="teiHeader/revisionDesc/change[1]/date[1]">
                 <xsl:text></xsl:text><xsl:call-template name="massage-datetime"><xsl:with-param name="rawdate" select="normalize-space(.)"/></xsl:call-template>T00:00:01Z<xsl:text></xsl:text>
             </xsl:for-each>
@@ -98,6 +120,5 @@
         </summary>
     </xsl:template>
     
-    
-    
+
 </xsl:stylesheet>
