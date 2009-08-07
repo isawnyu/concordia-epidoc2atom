@@ -9,13 +9,10 @@
         <xsl:param name="rawdate"/>
         <xsl:choose>
             <xsl:when test="string-length($rawdate) = 0">
-                <xsl:message>zero-length date string passed to template "massage-datetime"</xsl:message>
             </xsl:when>
             <xsl:otherwise>
-                <xsl:message>template "massage-datetime" received date string = <xsl:value-of select="$rawdate"/></xsl:message>
                     <xsl:analyze-string select="$rawdate" regex="(\d+)\-(\d+)\-(\d+)">
                         <xsl:matching-substring>
-                            <xsl:message>regex group 1: <xsl:value-of select="regex-group(1)"/></xsl:message>
                             <xsl:variable name="year"><xsl:value-of select="regex-group(1)"/></xsl:variable>
                             <xsl:variable name="month">
                                 <xsl:call-template name="leftpad">
@@ -30,7 +27,6 @@
                                 </xsl:call-template>
                             </xsl:variable>
                             <xsl:variable name="cookeddate"><xsl:value-of select="$year"/>-<xsl:value-of select="$month"/>-<xsl:value-of select="$day"/></xsl:variable>
-                            <xsl:message>template "massage-datetime" calculated date string = <xsl:value-of select="$cookeddate"/></xsl:message>
                             <xsl:value-of select="$cookeddate"/>
                         </xsl:matching-substring>
                     </xsl:analyze-string>

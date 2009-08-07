@@ -9,7 +9,7 @@
     <xsl:template name="findspot">
         <xsl:comment>findspot(s)</xsl:comment><xsl:text> 
     </xsl:text>
-        <xsl:apply-templates select="//textClass/keywords/term/placeName[@type='ancientFindspot']"/>
+        <xsl:apply-templates select="//placeName[@type='ancientFindspot']"/>
         <xsl:apply-templates select="//rs[@type='found']"/>
         <xsl:text>            
             
@@ -78,7 +78,7 @@
     </xsl:template>
     
     <xsl:template name="getfindspotkey-general">
-        <xsl:value-of select="normalize-space(//textClass/keywords/term/placeName[@type='ancientFindspot']/@key)"/>
+        <xsl:value-of select="normalize-space(//placeName[@type='ancientFindspot']/@key)"/>
     </xsl:template>
 
    
